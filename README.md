@@ -16,6 +16,8 @@ for learn more about metahuristic algorithm with python,Please refer to the refe
 
 https://biglearn.ir/product/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D8%A7%D8%A8%D8%AA%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7/
 
+In the Arduino code, the WiFi library is used to connect the ESP32-WROOM-32 module to a router for internet access. The HTTP Client library is used to connect to the server, which in this project is Google Sheets. The TinyGPS++ library configures the NEO-6M GPS module to communicate with GPS satellites and determine geographic coordinates (latitude and longitude). The hardwareserial library enables communication between the modules and sensors using the specific protocol with the ESP32-WROOM-32 module. The communication protocol between the ESP32-WROOM-32 module and the GPS module is UART. The code defines the machine learning model as a class, and it includes steps for receiving data from sensors, connecting to the router, sending data to Google Sheets, storing the data, and displaying the data in Google Sheets.
+
 Google Drive link,description of the smart wristband design project:
 
 https://drive.google.com/file/d/1uN2HTS5Wt-oqSwqVQp-O_pPVzVAf4x2C/view?usp=drive_link
