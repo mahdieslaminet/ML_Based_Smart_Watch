@@ -29,7 +29,3 @@ https://drive.google.com/drive/folders/1t60cGLn013Ep5F4Ft_9nn4Ba7i-FDGYs?usp=dri
 my email address:
 
 mohammadreza.dolatshahi.76@gmail.com
-
-my telegram ID:
-
-@Mohammadreza_Di5
