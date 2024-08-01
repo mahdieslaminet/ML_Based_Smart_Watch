@@ -30,8 +30,4 @@ my email address:
 
 mohammadreza.dolatshahi.76@gmail.com
 
-Telegram ID:
-
-@Mohammadreza_Di5
-
 ORCID Number:0009-0008-2612-6046
