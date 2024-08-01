@@ -25,3 +25,11 @@ https://drive.google.com/file/d/1uN2HTS5Wt-oqSwqVQp-O_pPVzVAf4x2C/view?usp=drive
 Google Drive link of the project and all class activities:
 
 https://drive.google.com/drive/folders/1t60cGLn013Ep5F4Ft_9nn4Ba7i-FDGYs?usp=drive_link
+
+my email address:
+
+mohammadreza.dolatshahi.76@gmail.com
+
+my telegram ID:
+
+@Mohammadreza_Di5
