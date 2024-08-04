@@ -20,7 +20,9 @@ In the Arduino code, the WiFi library is used to connect the ESP32-WROOM-32 modu
 
 # Dataset
 
-In this project, the SisFall dataset is used for detecting falls and other activities. The reason for using this dataset is its good flexibility and because, in this project, we used a pulse sensor module to detect activities. By using this dataset, this can be achieved.
+In this project, the SisFall dataset is used for detecting falls and other activities. The reason for using this dataset is its good flexibility and because, in this project, we used a pulse sensor module to detect activities. By using this dataset, this can be achieved.The Google Drive link for the dataset of this project is as follows:
+
+https://drive.google.com/file/d/1aKhckbgBz7y0fD_01hVQfL6fBFLHmb3s/view?usp=drive_link
 
 # How the Project Works
 
@@ -51,5 +53,9 @@ https://drive.google.com/drive/folders/1t60cGLn013Ep5F4Ft_9nn4Ba7i-FDGYs?usp=dri
 my email address:
 
 mohammadreza.dolatshahi.76@gmail.com
+
+Telegram ID:
+
+@ Mohammadreza_Di5
 
 ORCID Number:0009-0008-2612-6046
